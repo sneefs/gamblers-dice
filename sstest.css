@@ -1,0 +1,384 @@
+
+.narrow-width {
+    width: 960px;
+    margin-left: 175px;
+    margin-top: 100px;
+    margin-right: auto;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.full-img-wrapper {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    bottom: 0px;
+}
+
+.full-img-wrapper .full-w-img {
+    height: 100%;
+    position: relative;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+input:focus,select:focus {
+    outline: none;
+}
+
+#hero-homepage #home-hero-light {
+    background-image: url(./img/hero-section.jpg);
+    background-repeat: no-repeat;
+    background-size:
+}
+
+#hero-homepage h1 {
+    font-family: Din,Helvetica,sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+    line-height: 30px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+div.hr {
+    width: 690px
+}
+
+#hero-homepage h2 {
+    font-family: Din,Helvetica,sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+    margin-bottom: -12px;
+}
+
+#hero-homepage p {
+    width: 570px;
+    font-family: Din,Helvetica,sans-serif;
+    font-weight: normal;
+    font-size: 17px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 28px;
+    margin-bottom: 35px;
+}
+
+#hero-homepage .shop-link {
+    height: 40px;
+    line-height: 40px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    background-color: #00BEAC;
+    color: white;
+    width: 287px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    -moz-transition-property: background-color;
+    -o-transition-property: background-color;
+    -webkit-transition-property: background-color;
+    transition-property: background-color;
+    -moz-transition-duration: 300ms;
+    -o-transition-duration: 300ms;
+    -webkit-transition-duration: 300ms;
+    transition-duration: 300ms;
+    -moz-transition-timing-function: ease-out;
+    -o-transition-timing-function: ease-out;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+    border: none;
+    font-family: DinRegular,Helvetica,sans-serif;
+    font-weight: normal;
+    color: #ffffff;
+    font-size: 22px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#hero-homepage .shop-link:hover,#hero-homepage .shop-link:focus {
+    background-color: #07DAC4;
+}
+
+#hero-homepage span {
+    display: inline-block;
+    width: 136px;
+    font-family: DinRegular,Helvetica,sans-serif;
+    font-weight: normal;
+    font-size: 13px;
+    color: #C4C7C9;
+    letter-spacing: 0.66px;
+    line-height: 20px;
+    vertical-align: top;
+    margin-left: 25px;
+    margin-top: 2px;
+}
+
+
+
+                                                     <!-- section 2 -->
+
+
+#features-at-a-glance {
+    margin-bottom: 16px;
+    padding: 80px 0 35px;
+    text-align: center;
+}
+
+#features-at-a-glance h2 {
+    font-family: Din,Helvetica,sans-serif;
+    font-weight: normal;
+    font-size: 37px;
+    color: #51545D;
+    letter-spacing: 0px;
+    line-height: 47px;
+    margin: 10px auto 50px;
+    text-align: center;
+}
+
+#features-at-a-glance .ss-feature {
+    text-align: center;
+    vertical-align: top;
+    margin-bottom: 34px;
+    width: 270px;
+}
+
+#features-at-a-glance .ss-feature .feature-img-wrapper {
+    margin: 0 auto;
+    height: 65px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 1%;
+}
+
+#features-at-a-glance .ss-feature a {
+    font-family: Din,Helvetica,sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: #008CC1;
+    line-height: 22px;
+    text-decoration: none;
+    height: 55px;
+    display: block;
+    line-height: 55px;
+    vertical-align: top;
+}
+
+#features-at-a-glance .ss-feature a.two-lines {
+    line-height: 22px;
+}
+
+#features-at-a-glance .ss-feature a:hover {
+    text-decoration: underline;
+}
+
+#features-at-a-glance .ss-feature p {
+    font-family: Din,Helvetica,sans-serif;
+    font-weight: normal;
+    font-size: 17px;
+    color: #9D9CA1;
+    letter-spacing: 0;
+    line-height: 23px;
+    margin: initial;
+}
+
+#features-at-a-glance .ss-feature:first-of-type {
+    width: 335px;
+}
+
+#features-at-a-glance .ss-feature:nth-of-type(4) {
+    width: 300px;
+}
+
+.stretch-container {
+    text-align: justify;
+    -ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;
+}
+
+.stretch-container:after {
+    content: '';
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+}
+
+.stretch-container span.stretch {
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+}
+
+.stretch-container > div {
+    vertical-align: bottom;
+    display: inline-block;
+}
+
+
+
+
+                                                    <!-- Section 3 -->
+div#simplisafe-save-money .relative-wrapper {
+    padding: 85px 0 30px;
+}
+
+div#simplisafe-save-money h2 {
+    line-height: 100%;
+    text-align: center;
+    font-family: DinRegular,Helvetica,sans-serif;
+    font-weight: normal;
+    color: #505050;
+    font-size: 38px;
+    margin-bottom: 58px;
+}
+
+div#simplisafe-save-money p {
+    font-family: Din,Helvetica,sans-serif;
+    font-weight: normal;
+    color: #535353;
+    font-size: 18px;
+}
+
+div#simplisafe-save-money .content-left,div#simplisafe-save-money .content-right {
+    display: inline-block;
+    vertical-align: top;
+}
+
+div#simplisafe-save-money .content-left {
+    margin: 0 10px 0 20px;
+}
+
+div#simplisafe-save-money .content-left p {
+    line-height: 28px;
+}
+
+div#simplisafe-save-money .content-left p:first-of-type {
+    margin-bottom: 45px;
+}
+
+div#simplisafe-save-money .content-left p:last-of-type {
+    margin-top: 60px;
+}
+
+div#simplisafe-save-money table {
+    margin: 0 40px 60px 0;
+    line-height: 23px;
+    display: block;
+    border-collapse: collapse;
+}
+
+div#simplisafe-save-money table tr {
+    width: 154px;
+
+}
+
+div#simplisafe-save-money table th {
+    font-family: Din,Helvetica,sans-serif;
+    font-weight: bold;
+    color: #535353;
+    font-size: 18px;
+    padding-right: 0px;
+    text-align: center;
+    vertical-align: bottom;
+    padding-bottom: 5px;
+    border: none;
+}
+
+div#simplisafe-save-money table td {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 154px;
+    height: 66px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: Din,Helvetica,sans-serif;
+    font-weight: normal;
+    color: #535353;
+    font-size: 18px;
+}
+
+div#simplisafe-save-money table td.label {
+    color: #9B9B9B;
+    border: none;
+    text-align: right;
+    padding-right: 20px;
+}
+
+div#simplisafe-save-money table td.them {
+    color: #535353;
+    border: 3px solid #DBDBDB;
+    border-left: 3px solid #008CC1;
+
+}
+
+div#simplisafe-save-money table td.us {
+    border: 3px solid #008CC1;
+    font-family: Din,Helvetica,sans-serif;
+    font-weight: bold;
+    color: #008CC1;
+}
+
+div#simplisafe-save-money .dollar p {
+    color: #9B9B9B;
+    line-height: 23px;
+    margin: 0;
+    text-align: center;
+}
+
+div#simplisafe-save-money .dollar p.dollar-amount {
+    font-family: DinCondensed,Helvetica,sans-serif;
+    font-weight: bold;
+    color: #008CC1;
+    font-size: 40px;
+    line-height: 48px;
+    margin: 0px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+div#simplisafe-save-money #saving {
+    margin-left: 65px;
+    border-top: 1px solid #CECECE;
+    width: 430px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 25px 16px 0 18px;
+}
+
+div#simplisafe-save-money .learn-link {
+    margin-top: 40px;
+}
+
+div#simplisafe-save-money .stretch-container {
+    text-align: justify;
+    -ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;
+}
+
+div#simplisafe-save-money .stretch-container:after {
+    content: '';
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+}
+
+div#simplisafe-save-money .stretch-container span.stretch {
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+}
+
+div#simplisafe-save-money .stretch-container > div {
+    vertical-align: bottom;
+    display: inline-block;
+}
